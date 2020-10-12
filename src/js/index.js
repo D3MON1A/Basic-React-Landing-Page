@@ -84,7 +84,7 @@ function Carddeck() {
 			<div className="card">
 				<img
 					className="card-img-top"
-					src="https://via.placeholder.com/300"
+					src="https://loremflickr.com/320/240/coding"
 					alt="Card image cap"
 				/>
 				<div className="card-body">
@@ -102,7 +102,7 @@ function Carddeck() {
 			<div className="card">
 				<img
 					className="card-img-top"
-					src="https://via.placeholder.com/300"
+					src="https://loremflickr.com/320/240/programming"
 					alt="Card image cap"
 				/>
 				<div className="card-body">
@@ -120,7 +120,7 @@ function Carddeck() {
 			<div className="card">
 				<img
 					className="card-img-top"
-					src="https://via.placeholder.com/300"
+					src="https://loremflickr.com/320/240/matrix"
 					alt="Card image cap"
 				/>
 				<div className="card-body">
@@ -138,7 +138,7 @@ function Carddeck() {
 			<div className="card">
 				<img
 					className="card-img-top"
-					src="https://via.placeholder.com/300"
+					src="https://loremflickr.com/320/240/javascript"
 					alt="Card image cap"
 				/>
 				<div className="card-body">
@@ -159,7 +159,7 @@ function Carddeck() {
 function Footer(property) {
 	return (
 		<div className="card-footer bg-dark text-white text-center p-4">
-			Copyright &#169; Your Website {property.currentYear}
+			Copyright &#169; Leisy Arcia {property.currentYear}
 		</div>
 	);
 }
